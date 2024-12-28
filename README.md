@@ -108,7 +108,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author ✍️
 
-Developed by [Your Name](https://github.com/S2K7x) with ❤️ for the cybersecurity community.
+Developed by [S2K7x](https://github.com/S2K7x) with ❤️ for the cybersecurity community.
 
 ---
 
