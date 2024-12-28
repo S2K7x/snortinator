@@ -114,7 +114,7 @@ Developed by [S2K7x](https://github.com/S2K7x) with ❤️ for the cybersecurity
 
 ## Feedback & Support 📬
 
-If you encounter any issues or have suggestions, feel free to open an [issue](https://github.com/S2K7x/snortinator/issues) or contact me at your.email@example.com.
+If you encounter any issues or have suggestions, feel free to open an [issue](https://github.com/S2K7x/snortinator/issues)
 
 
 ---
