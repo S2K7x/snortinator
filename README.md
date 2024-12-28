@@ -26,7 +26,7 @@ Follow these steps to set up and use Snortinator:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/snortinator.git
+   git clone https://github.com/S2K7x/snortinator.git
    cd snortinator
    ```
 
@@ -108,14 +108,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author ✍️
 
-Developed by [Your Name](https://github.com/yourusername) with ❤️ for the cybersecurity community.
+Developed by [Your Name](https://github.com/S2K7x) with ❤️ for the cybersecurity community.
 
 ---
 
 ## Feedback & Support 📬
 
-If you encounter any issues or have suggestions, feel free to open an [issue](https://github.com/yourusername/snortinator/issues) or contact me at your.email@example.com.
-```
+If you encounter any issues or have suggestions, feel free to open an [issue](https://github.com/S2K7x/snortinator/issues) or contact me at your.email@example.com.
+
 
 ---
 
